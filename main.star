@@ -77,6 +77,7 @@ def run(plan, args):
                 # Comes after deploying oracle
                 "L2OO_ADDRESS": L2OO_ADDRESS,
                 "OP_SUCCINCT_MOCK": OP_SUCCINCT_MOCK,
+                "RUST_LOG": "debug",
             },
         ),
     )
