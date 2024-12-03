@@ -1,5 +1,4 @@
-name: github.com/example-org/example-package
+name: "github.com/jhkimqd/kurtosis-op-succinct"
 description: |-
-  # github.com/example-org/example-package
-  Enter description Markdown here.
+  kurtosis op-succinct package
 replace: {}
